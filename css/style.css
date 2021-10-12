@@ -120,6 +120,7 @@ HEADER
   background-size: cover;
   min-height: 650px;
   position: relative;
+  
 }
 
 .bg-color {
@@ -848,6 +849,7 @@ Responsive media queries
     background-size: cover;
     /* min-height: 650px; */
     position: relative;
+    width: 115%;
  
   }
   .navbar-default .navbar-brand {
@@ -866,6 +868,7 @@ Responsive media queries
     font-size: 33px;
   }
   body {
+   
     font-size: 14px;
   }
   .btn-download, .btn-more, .btn-download:hover, .btn-more:hover, .btn-download:focus, .btn-more:focus {
