@@ -867,7 +867,8 @@ Responsive media queries
     font-size: 33px;
   }
   body {
-    
+    min-width: 110%;
+  
     font-size: 14px;
   }
   .btn-download, .btn-more, .btn-download:hover, .btn-more:hover, .btn-download:focus, .btn-more:focus {
