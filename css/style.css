@@ -671,9 +671,9 @@ contact
 .btn-submit, .btn-submit:hover, .btn-submit:focus {
   background-color: transparent;
   border-radius: 60px;
-  color: #2ee71d;
+  color: #f2f8f1;
   font-weight: 400;
-  border: 1px solid #2ee71d;
+  border: 1px solid #f0f3ef;
   font-size: 14px;
   padding: 6px 20px;
 }
@@ -681,8 +681,8 @@ contact
 .form-control {
   background-color: transparent;
   border-radius: 0px;
-  color: #2ee71d !important;
-  border-color: #2ee71d;
+  color: #e6f1e5 !important;
+  border-color: #eff1ef;
 }
 
 .form-control:focus {
@@ -764,6 +764,7 @@ contact
 
 .white-bg {
   background-color: #fff;
+  width: 1150px;
 }
 
 #footer a {
