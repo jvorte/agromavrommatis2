@@ -825,6 +825,14 @@ Responsive media queries
   .padding-right-zero {
     padding-right: 15px !important;
   }
+  .navbar-brand {
+    padding-left: 140px;
+    margin-top: 0px;
+   
+  }
+ #myNavbar ul{
+    margin-right: 70px;
+  }
 }
 
 @media (min-width: 451px) and (max-width: 767px) {
@@ -837,7 +845,7 @@ Responsive media queries
   .navbar-default .navbar-brand {
     padding-left: 18px;
     margin-top: 0px;
-    font-size: 20px;
+    font-size: 25px;
   }
   .banner-info {
     padding-top: 100px;
