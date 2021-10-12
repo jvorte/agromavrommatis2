@@ -843,10 +843,18 @@ Responsive media queries
 }
 
 @media (min-width: 20px) and (max-width: 450px) {
+  .header {
+    background: url('../img/apple18.jpg') no-repeat fixed;
+    background-size: cover;
+    /* min-height: 650px; */
+    position: relative;
+ 
+  }
   .navbar-default .navbar-brand {
     padding-left: 18px;
     margin-top: 0px;
     font-size: 25px;
+    
   }
   .banner-info {
     padding-top: 100px;
